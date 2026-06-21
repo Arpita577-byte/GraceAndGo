@@ -1,0 +1,6 @@
+{
+  "name": "Luxury 3D Salon Landing Page",
+  "description": "An immersive, interactive landing page for a high-end beauty salon featuring cinematic double-door transitions, scrolling room corridors, responsive scheduling, and pastel gold aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
